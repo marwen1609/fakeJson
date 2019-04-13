@@ -1,4 +1,6 @@
 {
 "result":true,
-"payload": {"object": [14,15]}
+"payload": {
+     "name": "typicode"
+  }
 }
